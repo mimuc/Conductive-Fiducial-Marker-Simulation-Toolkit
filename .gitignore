@@ -1,7 +1,7 @@
-./logs/
-./training_checkpoints/
-./models/
-./data/
+logs/
+training_checkpoints/
+models/
+data/
 
 .DS_Store
 
