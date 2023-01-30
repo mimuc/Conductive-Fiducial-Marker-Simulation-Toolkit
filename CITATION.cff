@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+date-released: 2022-08-03
+authors:
+  - family-names: Steuerlein
+    orcid: 'https://orcid.org/0000-0002-6569-6868'
+    affiliation: University of Stuttgart
+    email: st111340@stud.uni-stuttgart.de
+    given-names: Benedict
+  - family-names: Mayer
+    orcid: 'https://orcid.org/0000-0001-5462-8782'
+    affiliation: LMU Munich
+    email: info@sven-mayer.com
+    given-names: Sven
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Conductive Fiducial Tangibles for Everyone: A Data Simulation-Based Toolkit using Deep Learning"
+type: software
+doi: 10.1145/3546718
+url: "https://github.com/mimuc/Conductive-Fiducial-Marker-Simulation-Toolkit"
