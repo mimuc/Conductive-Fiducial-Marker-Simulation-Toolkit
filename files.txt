@@ -1,4 +1,4 @@
-https://sven-mayer.com/adatasets/2022-MobileHCI-SuperRes/16h5_training.pkl
-https://sven-mayer.com/adatasets/2022-MobileHCI-SuperRes/16h5_validation.pkl
-https://sven-mayer.com/adatasets/2022-MobileHCI-SuperRes/36h11_training.pkl
-https://sven-mayer.com/adatasets/2022-MobileHCI-SuperRes/36h11_validation.pkl
+https://sven-mayer.com/datasets/2022-MobileHCI-SuperRes/16h5_training.pkl
+https://sven-mayer.com/datasets/2022-MobileHCI-SuperRes/16h5_validation.pkl
+https://sven-mayer.com/datasets/2022-MobileHCI-SuperRes/36h11_training.pkl
+https://sven-mayer.com/datasets/2022-MobileHCI-SuperRes/36h11_validation.pkl
